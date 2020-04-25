@@ -4,6 +4,8 @@
 #include <algorithm>
 #include <numeric>
 
+//https://ja.wikipedia.org/wiki/ABC—\‘z
+
 typedef std::vector<std::uintmax_t> DType;
 
 DType PrimeFacterlize(std::uintmax_t In) {
